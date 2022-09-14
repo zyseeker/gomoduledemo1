@@ -5,6 +5,6 @@ import (
 )
 
 func Welcome() string {
-	hoster := "StevenZY"
+	hoster := "Steven"
 	return fmt.Sprintf("%s Says: Hello!", hoster)
 }
