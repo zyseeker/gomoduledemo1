@@ -1,4 +1,4 @@
-module github.com/zyseeker/gomoduledemo1/v3
+module github.com/zyseeker/gomoduledemo1/v4
 
 go 1.18
 
