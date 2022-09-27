@@ -5,5 +5,5 @@ import (
 )
 
 func GetVMwareAddr() string {
-	return fmt.Sprintf("City: %s", "Shanghai")
+	return fmt.Sprintf("City: %s", "Shanghai2")
 }
